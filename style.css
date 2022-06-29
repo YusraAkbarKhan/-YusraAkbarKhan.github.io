@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@400;600&family=Fascinate&family=Inter:wght@400;500;600&family=Josefin+Sans:ital,wght@1,200;1,300&family=Koulen&family=Lato:wght@100;400&family=Lobster&family=Pacifico&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Teko:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo{
+    position: relative;
+    height: 40px;
+    background: #FFDFD3;
+    width: 100%;
+}
+
+.navbar{
+    height: 80px;
+    background-color: #fff;
+    width: 100%;
+    border-bottom: 1px solid #ececec;
+}
+
+.name{
+    position: relative;
+    text-align: center;
+    font-family: 'Anek', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name h1{
+    letter-spacing: 0.5rem !important;
+    font-size: xxx-large;
+    font-weight: 500;
+    color: rgb(39 40 39);
+}
+
+.red{
+    color: rgb(124 9 9);
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
